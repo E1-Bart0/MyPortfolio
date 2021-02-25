@@ -1,0 +1,4 @@
+AliasGame/.*
+AliasGame/Alias/frontend/node_modules/
+AliasGame/Alias/*.log
+AliasGame/Alias/.venv/
